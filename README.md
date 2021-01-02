@@ -6,11 +6,17 @@ This contains the name of the medicine, dosage (size and frequency of a dose of 
 
 ##### For example :
 SIMVASTATINE 20 mg: 1 tab / day at 8 hours for one month
+
 CYTARABINE 100 mg / m² from D1 to D7
+
 ZOLPIDEM 10 mg 1 tab at bedtime
+
 METFORMIN 850 mg 3 times a day
+
 SPECIAFOLDINE 5 mg: 1 tab morning
+
 ALADACTONE 25 mg: 1 tab / day at noon
+
 INEXIUM 40 1 tab per day in the evening
 
 # Installation
@@ -35,7 +41,7 @@ you can determine the interval of the pages to be processed, respecting the form
 you can also enter the port which is specified in the Apache web server configuration file. This port is the second argument of our first Python script.
 Note: The default http port is port 80.
 
-this will Output : 
+this will output : 
 a dictionary in .dic format (DELAF-UNITEX FORMAT) named "subst.dic".
 a file named "infos.txt" containing:
 o the number of drugs found in the dictionary Previously generated "subst.dic" for each letter of the alphabet;
