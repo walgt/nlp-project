@@ -1,7 +1,5 @@
 # vidal-drugs-extractor
-# Extract drugs informations from a medical courpus
-
-
+Extract drugs informations from a medical courpus.
 This contains the name of the medicine, dosage (size and frequency of a dose of the medicine), and how each dose should be administered.
 
 ##### For example :
