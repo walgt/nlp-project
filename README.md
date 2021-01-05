@@ -20,7 +20,7 @@ INEXIUM 40 1 tab per day in the evening
 # Installation
 Colne this project :
 ```bash
-git clone https://github.com/walgt/nlp-project.git
+git clone https://github.com/walgt/vidal-drugs-extractor.git
 ```
 Install [unitex](https://unitexgramlab.org/)
 
