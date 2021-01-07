@@ -1,0 +1,45 @@
+#Unigraph
+SIZE 1936 874
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+25
+"<E>" 14 347 1 23 
+"" 1212 215 0 
+"<NB>" 167 411 1 24 
+"<NB>" 427 158 2 4 5 
+"fois <PREP>" 508 242 1 11 
+"cp\/j+cp\/jour+cp par jour+cp+comprimé par jour+sachet par jour+deux fois par jour+par jour" 372 608 5 9 20 21 6 1 
+"le soir+le midi+le matin" 864 329 1 1 
+"\:" 421 212 1 8 
+"<NB>" 383 446 1 5 
+"à " 629 336 1 13 
+"heures <PREP>" 773 423 1 12 
+"semaine+moi+année+jour" 973 93 1 1 
+"une+un+deux+trois+quatre+cinq+six+sept+huite+neuf" 940 495 1 11 
+"<NB>" 713 341 1 10 
+"<NB>" 807 49 1 1 
+"<NB>" 650 50 1 17 
+"<J>" 596 52 1 15 
+"à " 723 47 1 18 
+"j" 770 49 1 14 
+"<DET>" 489 37 1 16 
+"au coucher+au reveil" 630 116 1 1 
+"matin+soir+midi" 829 272 1 1 
+"\/j" 303 505 1 1 
+"<N+subst>" 50 202 1 2 
+"mg+g+mL+cL+dL+L+dg+cg+gr+mg\/m²" 269 107 5 3 7 19 22 5 
